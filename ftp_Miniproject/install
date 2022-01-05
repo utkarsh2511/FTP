@@ -1,0 +1,5 @@
+python 3.x
+pip3: sudo apt-get install python3-pip
+pam: pip3 install pam
+getpass: pip3 install getpass
+diable firewall: sudo ufw disable
